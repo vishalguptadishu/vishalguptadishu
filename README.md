@@ -12,4 +12,3 @@ Skills:
 ⚛️ React | Redux | Bootstrap  | Material UI
 🖥️ HTML | CSS | JavaScript | SCSS
 💻 VsCode | Postman | Git | Canva | npm | GitHub | Vercel | Cyclic | Netlify
-Additional Information
