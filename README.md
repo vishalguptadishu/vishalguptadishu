@@ -2,7 +2,7 @@
 - 👀 I’m interested in building interactive web Applications.
 - 🌱 I’m currently learning web Development.
 - 💞️ I’m looking to collaborate on front-end Development.
-- 📫 How to reach me https://idyllic-lamington-a7883a.netlify.app/
+
 
 <!---
 vishalguptadishu/vishalguptadishu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
