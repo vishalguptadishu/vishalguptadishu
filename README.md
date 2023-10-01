@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vishalguptadishu
+- 👋 Hi, I’m @vishal gupta
 - 👀 I’m interested in building interactive web Applications.
 - 🌱 I’m currently learning web Development.
 - 💞️ I’m looking to collaborate on front-end Development.
